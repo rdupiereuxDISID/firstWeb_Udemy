@@ -225,6 +225,11 @@ aside#der input{
 
 }
 
+aside#der input[type="submit"] {
+    width: 100%;  /* O ajusta el tamaño según lo que necesites */
+}
+
+
 /* Aquí puedo meter iconos dentro del imput, cargando uan imagen y ajustándola en el mismo input:
 aside#der input[type="text"]{
     background: url();
